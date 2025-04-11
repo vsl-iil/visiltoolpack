@@ -1,0 +1,8 @@
+#include "resource.h"
+#include <Windows.h> 
+
+Logo     ICON "defeye.ico"
+Enabled  ICON "defgrn.ico"
+Disabled ICON "defred.ico"
+Alert    ICON "defalert.ico"
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "admin.manifest"
